@@ -1,0 +1,53 @@
+body{
+    background: #f6f6f6 !important;
+}
+.button {
+    border:0px;
+    border-radius: 5px;
+    background-color: #58A8F8;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    }
+    .enlace{
+        background-color: #ffffff;
+        border:0px;
+        text-align: center;
+        color: #58A8F8;
+    }
+.fondo{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.4);
+    margin-top: 15% !important;
+    padding: 5%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+input[type=text], input[type=password],input[type=number] {
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #58A8F8;
+    margin-bottom: 15% !important;
+}
+.select{
+      width: 100%;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 15% !important;
+}
+
+input{
+    margin-bottom: 5% !important;
+}
+
+h1{
+    margin-bottom: 5% !important;
+    color: #58A8F8 !important;
+}

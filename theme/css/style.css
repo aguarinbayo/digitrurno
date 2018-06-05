@@ -1,0 +1,67 @@
+body{
+
+}
+	#cedula, #submit,#teclado{
+		margin: auto;
+	}
+
+	#trabajo{
+	margin-top: 5%;
+	padding: 3%;
+}
+.bd{
+	background-color: #f1f1f1;
+	padding: 3%;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+}
+
+	#submit{
+		background: #58A8F8;
+		margin: 0;
+		border: 0px;
+		border-radius: 5px;
+		padding: 20px;
+		color: rgb(255,255,255);
+		background: linear-gradient(to right, rgba(86,194,0,0.5) 0% , rgba(96,202,11,0.5) 100%);
+	}	
+	.table_teclado tr{
+		padding: 5px;
+	}
+	.table_teclado tr td div
+{
+	background: rgba(73,155,234,1);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+	color: #FFF;
+	cursor: pointer;
+	border-radius: 3px;
+	font-family: sans-serif;
+	position: relative;
+	padding: 20px;
+}
+
+.table_teclado tr td div:hover
+{
+	background: #58A8F8;
+}
+
+.table_teclado .dele{
+	    padding: 31px;
+}
+.evio{
+	text-align: center;
+}
+.btn_delete
+{
+	position: absolute;
+	left: .1em;
+	bottom: .1em;
+	width: 19px;
+}
+#cedula{
+	    padding: 30px;
+    border: 0px;
+    border-radius: 5px;
+	
+}
+
